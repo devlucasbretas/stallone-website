@@ -522,4 +522,14 @@ h2 {
     .jobs-container {
         margin-top: -2px;
     }
+
+    .banner-content2 {
+        width: 300px;
+    }
+
+    .banner-content1 p,
+    .banner-content2 p,
+    .banner-content4 p {
+        font-size: 10pt;
+    }
 }
