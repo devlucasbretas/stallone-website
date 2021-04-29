@@ -63,7 +63,7 @@ const Menu = {
                         <a id="services" href="javascript:void(window.scroll(0,390))" onclick="Menu.close()">SERVIÇOS</a>
                         <a id="clientes" href="javascript:void(window.scroll(0,1520))" onclick="Menu.close()">QUEM SOMOS</a>
                         <a id="trabalhos" href="javascript:void(window.scroll(0,2140))" onclick="Menu.close()">TRABALHOS EXECUTADOS</a>
-                        <a id="contato" href="javascript:void(window.scroll(0,3050))" onclick="Menu.close()">CONTATO</a>
+                        <a id="contato" href="javascript:void(window.scroll(0,3000))" onclick="Menu.close()">CONTATO</a>
                     </div>
                     <div>
                         <button id="btn" class="menu-btn" onclick="Menu.open()" id="menu-btn"><i class="fas fa-times"></i></button>
